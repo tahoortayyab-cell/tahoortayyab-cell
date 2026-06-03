@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Pursuing **ADP in Data Science** at University of Engineering and Technology (UET), Lahore — CGPA: 3.528/4.00
+- 🎓 Pursuing **Bachelor's degree in Data Science** at University of Engineering and Technology (UET), Lahore — CGPA: 3.528/4.00
 - 💡 Passionate about turning raw data into meaningful business insights
 - 🔍 Currently building real-world SQL projects and solving LeetCode database problems
 - 🚀 Next up: **Python + Pandas** → **Power BI** → **AI Agents**
