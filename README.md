@@ -1,6 +1,6 @@
 # Hi, I'm Tahoor Tayyab 👋
 
-**Data Science Student @ UET Lahore | SQL Data Analyst | Aspiring AI/ML Engineer**
+**Data Science Student @ UET Lahore | Learning Python, SQL & Analytics | Aspiring Data Scientist**
 
 ---
 
