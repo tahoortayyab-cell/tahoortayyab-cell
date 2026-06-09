@@ -18,7 +18,7 @@
 
 | Skill | Details |
 |-------|---------|
-| **MySQL / SQL** | CTEs, Window Functions, Stored Procedures, REGEXP, Indexes & Optimization, CASE WHEN, LAG/LEAD |
+| **MySQL / SQL** | CTEs, Window Functions, Stored Procedures, Indexes & Optimization, CASE WHEN, LAG/LEAD |
 | **Tools** | MySQL Workbench, GitHub, Microsoft Office |
 | **Currently Learning** | Python, Pandas, NumPy |
 
